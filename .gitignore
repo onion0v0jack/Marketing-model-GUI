@@ -1,0 +1,7 @@
+/build
+/dist
+/module_test
+/platforms
+/ts_GUI.spec
+/__pycache__
+/程式測試與執行須知.txt
